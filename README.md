@@ -1,0 +1,1 @@
+Boilerplate for developing a wordpress theme using gulp.

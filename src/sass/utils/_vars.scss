@@ -1,0 +1,9 @@
+/// Map of breakpoints for responsive design.
+/// @see {mixin} respond-to
+$breakpoints: (
+    "x-small":  (max-width: 430px),
+    "small":  (max-width: 560px),
+    "medium": (max-width: 800px),
+    "large": (max-width: 1000px),
+    "x-large": (max-width: 1200px),
+);
